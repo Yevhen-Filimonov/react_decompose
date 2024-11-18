@@ -1,24 +1,4 @@
 /* Put article styles here */
-iframe {
-  display: none;
-}
-
-* {
-  box-sizing: border-box;
-}
-
-html {
-  font-size: 10pt;
-  line-height: 1.4;
-  font-weight: 400;
-  font-family: "Source Sans Pro", "Open Sans", Roboto, Arial, sans-serif;
-}
-
-body {
-  margin: 0;
-  background: #eee;
-}
-
 .article {
   margin: 5em auto 0;
   padding: 1em;
